@@ -31,3 +31,7 @@
     margin-right: 15px;
 
 }
+
+.featured .btn-default:hover{
+    background-color: rgb(145, 82, 58);
+}
