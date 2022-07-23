@@ -17,6 +17,9 @@
 .featured{
     color: #fff;
 }
+.featured h1{
+    padding-top: 60px;
+}
 
 .featured .btn-default{
     color: #fff;
